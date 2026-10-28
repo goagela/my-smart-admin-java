@@ -1,0 +1,13 @@
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\employee\dao\EmployeeDao.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\employee\domain\entity\EmployeeEntity.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\employee\service\EmployeeService.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\login\controller\LoginController.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\login\domain\LoginForm.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\login\domain\LoginResultVO.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\login\domain\RequestEmployee.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\login\service\LoginService.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\menu\constant\MenuPermsTypeEnum.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\menu\constant\MenuTypeEnum.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\menu\domain\form\MenuBaseForm.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\module\system\menu\domain\vo\MenuVO.java
+C:\Users\32238\Desktop\oh-my-code\my-smart-admin-copy\my-smart-admin-api-java17-springboot3\my-sa-admin\src\main\java\com\example\mysaadmin\MySaAdminApplication.java

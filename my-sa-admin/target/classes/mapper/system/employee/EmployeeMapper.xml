@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mysaadmin.module.system.employee.dao.EmployeeDao">
+
+    <select id="getByLoginName" resultType="com.example.mysaadmin.module.system.employee.domain.entity.EmployeeEntity">
+        SELECT *
+        From t_employee
+        <where>
+            login_name=#{loginName}
+            <if test="deletedFlag!=null">
+                AND deleted_flag=#{deletedFlag}
+            </if>
+        </where>
+    </select>
+</mapper>

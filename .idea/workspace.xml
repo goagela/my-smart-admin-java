@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01f61bc8-be8b-418d-956c-6c6a0438dd3c" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="203c58bd-7da8-436c-9ddd-d971a902f025" value="" />
+    </colors>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="39" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4223604220787327" />
+      <entry key="MS500" value="3.062598486586168" />
+      <entry key="S2" value="4.8544877943735765" />
+      <entry key="S5" value="5.491026190056454" />
+      <entry key="S10" value="5.7363246860821775" />
+      <entry key="S30" value="6.388301471533118" />
+      <entry key="S60" value="9.195476792668522" />
+      <entry key="M2" value="14.418773196123544" />
+      <entry key="M5" value="20.987504080420674" />
+      <entry key="M10" value="24.15909605281871" />
+      <entry key="M15" value="25.358593975912814" />
+      <entry key="M30" value="26.637154914307615" />
+      <entry key="H1" value="27.307709788060286" />
+      <entry key="H2" value="27.672861342081088" />
+      <entry key="H4" value="29.145893818940472" />
+      <entry key="D1" value="113.83332999421097" />
+      <entry key="W1" value="323.8550288393753" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="1.717003121437334E-198" />
+      <entry key="M5" value="9.47965379416382E-80" />
+      <entry key="M10" value="4.67184237697239E-40" />
+      <entry key="M15" value="8.957946532398093E-27" />
+      <entry key="M30" value="2.0256115037487948E-13" />
+      <entry key="H1" value="1.1510987582377734E-6" />
+      <entry key="H2" value="0.0035019293286730558" />
+      <entry key="H4" value="0.2335072851624972" />
+      <entry key="D1" value="18.927792063223226" />
+      <entry key="W1" value="61.18673300682536" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3543488579483858" />
+      <entry key="MS500" value="3.0048108902555763" />
+      <entry key="S2" value="4.832650383813601" />
+      <entry key="S5" value="5.48142326350035" />
+      <entry key="S10" value="5.731363338113219" />
+      <entry key="S30" value="6.38646824105719" />
+      <entry key="S60" value="9.194131879603555" />
+      <entry key="M2" value="14.41769450811492" />
+      <entry key="M5" value="20.98686623629594" />
+      <entry key="M10" value="24.158727073595436" />
+      <entry key="M15" value="25.35833534810742" />
+      <entry key="M30" value="26.637018857370126" />
+      <entry key="H1" value="27.30764114028586" />
+      <entry key="H2" value="27.676325871315786" />
+      <entry key="H4" value="29.379305578643436" />
+      <entry key="D1" value="132.76008197050317" />
+      <entry key="W1" value="385.04129195356535" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KdkJQ31PouOSkAr5RZDHKLASj2" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.MySaAdminApplication.executor": "Debug",
+    "Spring Boot.MySmartAdminApiJava17Springboot3Application.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <map>
+              <entry key="MySaAdminApplication" value="STOPPED" />
+              <entry key="MySmartAdminApiJava17Springboot3Application" value="FAILED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MySaAdminApplication">
+    <configuration name="MySaAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="my-sa-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mysaadmin.MySaAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySaBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="my-sa-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mysabase.MySaBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySmartAdminApiJava17Springboot3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="my-smart-admin-api-java17-springboot3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mysmartadminapijava17springboot3.MySmartAdminApiJava17Springboot3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="01f61bc8-be8b-418d-956c-6c6a0438dd3c" name="更改" comment="" />
+      <created>1791894761900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791894761900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cmd" />
+  </component>
+</project>

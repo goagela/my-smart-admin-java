@@ -5,6 +5,8 @@ import com.example.mysaadmin.module.system.employee.domain.entity.EmployeeEntity
 import jakarta.annotation.Resource;
 import org.springframework.stereotype.Service;
 
+import java.util.Locale;
+
 @Service
 public class EmployeeService {
     @Resource
@@ -17,5 +19,9 @@ public class EmployeeService {
      */
     public EmployeeEntity getByLoginName(String loginName){
         return employeeDao.getByLoginName(loginName,false);
+    }
+
+    public String generateSaltPassword(String password,String employeeUid){
+        return password+"_"+employeeUid.toUpperCase()+"_"+employeeUid.toLowerCase();
     }
 }

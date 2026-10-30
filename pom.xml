@@ -28,6 +28,7 @@
         <google-guava.version>20.0</google-guava.version>
         <commons-lang3.version>3.18.0</commons-lang3.version>
         <swagger-annotations.version>2.2.25</swagger-annotations.version>
+        <bcprov.version>1.80</bcprov.version>
     </properties>
 
     <dependencyManagement>
@@ -65,6 +66,11 @@
                 <groupId>io.swagger.core.v3</groupId>
                 <artifactId>swagger-annotations-jakarta</artifactId>
                 <version>${swagger-annotations.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.bouncycastle</groupId>
+                <artifactId>bcprov-jdk18on</artifactId>
+                <version>${bcprov.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

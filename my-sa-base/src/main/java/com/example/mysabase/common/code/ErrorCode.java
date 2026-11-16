@@ -15,17 +15,17 @@ public interface ErrorCode {
     /**
      * 系统等级
      */
-    String LEVEL_SYSTEM = "system";
+    String LEVEL_SYSTEM="system";
 
     /**
      * 用户等级
      */
-    String LEVEL_USER = "user";
+    String LEVEL_USER="user";
 
     /**
      * 未预期到的等级
      */
-    String LEVEL_UNEXPECTED = "unexpected";
+    String LEVEL_UNEXPECTED="unexpected";
 
     /**
      * 错误码

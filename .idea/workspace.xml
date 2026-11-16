@@ -5,17 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01f61bc8-be8b-418d-956c-6c6a0438dd3c" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/module/support/securityprotect/service/SecurityPasswordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/interceptor/AdminInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/department/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/department/domain/entity/DepartmentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/department/domain/vo/DepartmentVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/department/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/login/manager/LoginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-admin/src/main/resources/mapper/system/department/DepartmentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/annotation/NoNeedLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/code/SystemErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/util/SmartBeanUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/util/SmartRequestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/util/SmartResponseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/data_sources_history.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/employee/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/employee/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-sa-admin/src/test/java/com/example/mysaadmin/MySaAdminApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-admin/src/test/java/com/example/mysaadmin/MySaAdminApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-sa-admin/target/classes/com/example/mysaadmin/module/system/employee/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-admin/target/classes/com/example/mysaadmin/module/system/employee/service/EmployeeService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-sa-admin/target/test-classes/com/example/mysaadmin/MySaAdminApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-admin/target/test-classes/com/example/mysaadmin/MySaAdminApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/login/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/login/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/login/service/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-admin/src/main/java/com/example/mysaadmin/module/system/login/service/LoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-sa-admin/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-admin/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-sa-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-base/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-sa-base/src/test/java/com/example/mysabase/MySaBaseApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-base/src/test/java/com/example/mysabase/MySaBaseApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-sa-base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-sa-base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/code/ErrorCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/code/ErrorCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/domian/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-base/src/main/java/com/example/mysabase/common/domian/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-sa-base/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/my-sa-base/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,17 +40,17 @@
   <component name="DatabaseLocalColorSettings">
     <colors>
       <entry key="14079fd7-e0ed-4481-9075-ff2e981e27df" value="" />
-      <entry key="14a8f3d1-7a04-4131-b887-805063c3115c" value="" />
-      <entry key="203c58bd-7da8-436c-9ddd-d971a902f025" value="" />
     </colors>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="39" />
+    <option name="cachedIndexableFilesCount" value="63" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Mybatis Mapper" />
         <option value="Class" />
       </list>
     </option>
@@ -57,61 +71,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0017268991864164E-6" />
-      <entry key="MS500" value="0.10498197474276713" />
-      <entry key="S2" value="1.1054359384420558" />
-      <entry key="S5" value="1.9574078361055771" />
-      <entry key="S10" value="2.410359479955414" />
-      <entry key="S30" value="2.8018380308626365" />
-      <entry key="S60" value="3.173190491221396" />
-      <entry key="M2" value="4.214615166562469" />
-      <entry key="M5" value="6.535172469673312" />
-      <entry key="M10" value="9.226242022881129" />
-      <entry key="M15" value="11.381399259443622" />
-      <entry key="M30" value="15.818448670335073" />
-      <entry key="H1" value="20.028674103689465" />
-      <entry key="H2" value="23.06010093397515" />
-      <entry key="H4" value="24.92732506108515" />
-      <entry key="D1" value="82.6949817391025" />
-      <entry key="W1" value="390.81880365555986" />
+      <entry key="MS100" value="4.6379802103628406E-7" />
+      <entry key="MS500" value="0.05410853534497864" />
+      <entry key="S2" value="0.4822990922921026" />
+      <entry key="S5" value="0.7470180355416374" />
+      <entry key="S10" value="0.8696806640360408" />
+      <entry key="S30" value="1.3912364580101348" />
+      <entry key="S60" value="2.3238070070686514" />
+      <entry key="M2" value="3.5105811292148013" />
+      <entry key="M5" value="5.031909848614435" />
+      <entry key="M10" value="5.867895806897005" />
+      <entry key="M15" value="6.213266055084516" />
+      <entry key="M30" value="6.8910785201493425" />
+      <entry key="H1" value="9.537156285268114" />
+      <entry key="H2" value="18.28622086000992" />
+      <entry key="H4" value="33.56571100310643" />
+      <entry key="D1" value="101.12553390163404" />
+      <entry key="W1" value="594.0295637216865" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000000000686" />
-      <entry key="MS500" value="1.0023291188912709" />
-      <entry key="S2" value="1.2196837404679057" />
-      <entry key="S5" value="1.545454977624065" />
-      <entry key="S10" value="1.7455805204622121" />
-      <entry key="S30" value="2.1092390094634763" />
-      <entry key="S60" value="2.6670503526519846" />
-      <entry key="M2" value="3.9249017793106424" />
-      <entry key="M5" value="6.295972261843477" />
-      <entry key="M10" value="8.343983076845722" />
-      <entry key="M15" value="9.652513608410334" />
-      <entry key="M30" value="11.955004844579152" />
-      <entry key="H1" value="13.927217772805498" />
-      <entry key="H2" value="15.284349893110763" />
-      <entry key="H4" value="16.096257326009155" />
-      <entry key="D1" value="27.57847764941691" />
-      <entry key="W1" value="87.88375753050532" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0000000725472722" />
+      <entry key="M10" value="1.0009796421318107" />
+      <entry key="M15" value="1.0261010020966166" />
+      <entry key="M30" value="1.7925504944593895" />
+      <entry key="H1" value="6.023122123607086" />
+      <entry key="H2" value="15.786538272626055" />
+      <entry key="H4" value="28.93836583488269" />
+      <entry key="D1" value="67.03904976798044" />
+      <entry key="W1" value="219.88648784993663" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.013139173805936103" />
-      <entry key="MS500" value="0.4880399304889424" />
-      <entry key="S2" value="1.9023116367569382" />
-      <entry key="S5" value="3.199189755844916" />
-      <entry key="S10" value="3.960404371760558" />
-      <entry key="S30" value="4.818618409593238" />
-      <entry key="S60" value="5.77337012192417" />
-      <entry key="M2" value="8.08360831826183" />
-      <entry key="M5" value="12.792321368753484" />
-      <entry key="M10" value="17.543660506121366" />
-      <entry key="M15" value="21.012848314703888" />
-      <entry key="M30" value="27.75958105539436" />
-      <entry key="H1" value="33.94737695768345" />
-      <entry key="H2" value="38.33962366341311" />
-      <entry key="H4" value="41.020994189309015" />
-      <entry key="D1" value="110.2724596952668" />
-      <entry key="W1" value="478.70196902617596" />
+      <entry key="MS100" value="0.0016653027256751387" />
+      <entry key="MS500" value="0.2896802584062952" />
+      <entry key="S2" value="1.053829139718467" />
+      <entry key="S5" value="1.5198368737189059" />
+      <entry key="S10" value="1.7433443860621805" />
+      <entry key="S30" value="2.3453174322771146" />
+      <entry key="S60" value="3.2998041703174943" />
+      <entry key="M2" value="4.497888786383194" />
+      <entry key="M5" value="6.026341046440012" />
+      <entry key="M10" value="6.8659261955349" />
+      <entry key="M15" value="7.2373002443163745" />
+      <entry key="M30" value="8.68173524169293" />
+      <entry key="H1" value="15.556803130309238" />
+      <entry key="H2" value="34.06723166135216" />
+      <entry key="H4" value="62.49811513668283" />
+      <entry key="D1" value="168.16190911362514" />
+      <entry key="W1" value="813.9147128737997" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -138,6 +152,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.MySaAdminApplication.executor": "Run",
@@ -153,7 +168,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [

@@ -3,6 +3,7 @@ package com.example.mysaadmin.module.system.login.controller;
 import com.example.mysaadmin.module.system.login.domain.LoginForm;
 import com.example.mysaadmin.module.system.login.domain.LoginResultVO;
 import com.example.mysaadmin.module.system.login.service.LoginService;
+import com.example.mysabase.common.annotation.NoNeedLogin;
 import com.example.mysabase.common.domian.ResponseDTO;
 import com.example.mysabase.module.support.captcha.domain.CaptchaVO;
 import jakarta.annotation.Resource;
@@ -20,12 +21,14 @@ public class LoginController{
     private LoginService loginService;
 
     //登录
+    @NoNeedLogin
     @PostMapping("/login")
     public ResponseDTO<LoginResultVO> login(@Valid @RequestBody LoginForm loginForm,HttpServletRequest loginRequest) {
         return loginService.login();
     }
 
     //获取登录验证码
+    @NoNeedLogin
     @GetMapping("/login/getCaptcha")
     public ResponseDTO<CaptchaVO> getCaptcha(){
         return loginService.getCaptcha();

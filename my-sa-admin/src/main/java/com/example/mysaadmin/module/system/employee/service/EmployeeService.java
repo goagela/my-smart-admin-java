@@ -21,7 +21,13 @@ public class EmployeeService {
         return employeeDao.getByLoginName(loginName,false);
     }
 
+
     public String generateSaltPassword(String password,String employeeUid){
         return password+"_"+employeeUid.toUpperCase()+"_"+employeeUid.toLowerCase();
+    }
+
+    //根据employeeId查询用户
+    public EmployeeEntity getById(Long employeeId) {
+        return employeeDao.selectById(employeeId);
     }
 }
